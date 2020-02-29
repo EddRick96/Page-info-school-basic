@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea1e8904-eb3f-4815-8c35-563d532dd762" name="Default Changelist" comment="" />
+    <list default="true" id="ea1e8904-eb3f-4815-8c35-563d532dd762" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +24,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XAuWbqdk9voqaAGIInTCndYMj7" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -73,6 +81,7 @@
       <workItem from="1582780150462" duration="612000" />
       <workItem from="1582868258689" duration="4527000" />
       <workItem from="1582905006399" duration="5996000" />
+      <workItem from="1583002522318" duration="158000" />
     </task>
     <servers />
   </component>
@@ -80,10 +89,21 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$USER_HOME$/Documents/Ambientes no Propietarios/proyecto-semestre-administracion-de-condominio/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
-        <option value="$USER_HOME$/Documents/Ambientes no Propietarios/proyecto-semestre-administracion-de-condominio/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
-        <option value="$USER_HOME$/Documents/Ambientes no Propietarios/proyecto-semestre-administracion-de-condominio/node_modules/wait-for-expect/lib/index.d.js" />
+        <option value="$PROJECT_DIR$/../../Ambientes no Propietarios/proyecto-semestre-administracion-de-condominio/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/../../Ambientes no Propietarios/proyecto-semestre-administracion-de-condominio/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/../../Ambientes no Propietarios/proyecto-semestre-administracion-de-condominio/node_modules/wait-for-expect/lib/index.d.js" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </project>
